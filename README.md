@@ -1,13 +1,13 @@
-# GTag Extension for MediaWiki
+# ShynetTag Extension for MediaWiki
 
-The GTag extension lets you insert the new Google Analytics
-tracking tag on your MediaWiki site (gtag.js).
+The ShynetTag extension lets you insert shynet
+tracking tag on your MediaWiki site (shynet.js).
 
 ## Requirements
 
 - MediaWiki 1.34 or later
 
-## Installation
+<!-- ## Installation
 
 [Download the file from mwusers.org](https://mwusers.org/files/file/4-gtag/)
 (a free account is required) and extract the file to your
@@ -47,4 +47,4 @@ $wgGroupPermissions['sysop']['gtag-exempt'] = true;
 
 Free community support is available on the mwusers.org forums.
 [Paid support plans](https://mwusers.org/store/category/2-mediawiki-support-subscriptions/)
-are available as well.
+are available as well. -->
