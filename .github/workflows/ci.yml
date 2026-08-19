@@ -7,7 +7,7 @@ on:
   pull_request:
 
 env:
-  EXTNAME: GTag
+  EXTNAME: Shynet
   MW_INSTALL_PATH: ${{ github.workspace }}
 
 jobs:
